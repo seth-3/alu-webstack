@@ -16,4 +16,4 @@ Read or watch:
 
 (SSL termination)[https://docs.ionos.com/cloud/]
 
-(Bash function)[https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html].
+(Bash function)[https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html]..
